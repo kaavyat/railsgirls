@@ -19,22 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="31" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
+            <state line="8" column="86" selection-start="296" selection-end="296" vertical-scroll-proportion="0.16483517">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+      <file leaf-file-name="ideas_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/ideas_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="215" column="36" selection-start="5024" selection-end="5024" vertical-scroll-proportion="0.38352272">
-              <folding>
-                <element signature="tag#head#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="14" column="25" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,7 +102,11 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="33" selection-start="237" selection-end="237" vertical-scroll-proportion="-8.75">
-              <folding />
+              <folding>
+                <marker date="1377325151000" expanded="true" signature="21:235" placeholder="..." />
+                <marker date="1377325151000" expanded="true" signature="28:197" placeholder="..." />
+                <marker date="1377325151000" expanded="true" signature="204:227" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,34 +186,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgirls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgirls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgirls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgirls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -512,13 +486,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/boot.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -564,14 +531,11 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="33" selection-start="237" selection-end="237" vertical-scroll-proportion="-8.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="31" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1377325151000" expanded="true" signature="21:235" placeholder="..." />
+            <marker date="1377325151000" expanded="true" signature="28:197" placeholder="..." />
+            <marker date="1377325151000" expanded="true" signature="204:227" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -582,10 +546,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="215" column="36" selection-start="5024" selection-end="5024" vertical-scroll-proportion="0.38352272">
+        <state line="202" column="60" selection-start="4554" selection-end="4554" vertical-scroll-proportion="0.2556818">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ideas_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="25" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="86" selection-start="296" selection-end="296" vertical-scroll-proportion="0.16483517">
+          <folding />
         </state>
       </provider>
     </entry>
